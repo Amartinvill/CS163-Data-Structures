@@ -1,0 +1,6 @@
+ALGORITHM EFFICIENCY:10:300:Learing how to calculate Big o
+STACKS:6:197:sample fuctions that astack should have 
+ARRAY IMPLEMENTATION:3:98:understanding fix size arrays 
+LINK IMPLEMENTATION:4:148:using recursion 
+LIST:8:254:Specifuing the ADT List 
+RECURSION:2:54:Understanding how to use box trace

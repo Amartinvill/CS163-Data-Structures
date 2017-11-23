@@ -1,0 +1,6 @@
+PC:Vacation2016:JPG:Lot of great picture from our trip to Mexico
+MAC:Study Guide:DOCX:Notes on things to study for CS163
+PC:Math253SP16:PDf:Multiple PDFs for the lectures taught in class
+WINDOWS:Resume:DOCX:Number of resume for different companies
+LINUX:CS163HW:CPP:Homework assigment compleated over the semester
+PC:Bills:PDF:Bills over the past year for our house
